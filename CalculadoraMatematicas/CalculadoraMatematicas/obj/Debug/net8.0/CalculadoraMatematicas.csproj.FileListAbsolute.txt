@@ -1,0 +1,15 @@
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\bin\Debug\net8.0\CalculadoraMatematicas.exe
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\bin\Debug\net8.0\CalculadoraMatematicas.deps.json
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\bin\Debug\net8.0\CalculadoraMatematicas.runtimeconfig.json
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\bin\Debug\net8.0\CalculadoraMatematicas.dll
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\bin\Debug\net8.0\CalculadoraMatematicas.pdb
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.AssemblyInfoInputs.cache
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.AssemblyInfo.cs
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.csproj.CoreCompileInputs.cache
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.sourcelink.json
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.dll
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\refint\CalculadoraMatematicas.dll
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.pdb
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\CalculadoraMatematicas.genruntimeconfig.cache
+D:\GitHub\CalculadoraMatematicas\CalculadoraMatematicas\CalculadoraMatematicas\obj\Debug\net8.0\ref\CalculadoraMatematicas.dll
