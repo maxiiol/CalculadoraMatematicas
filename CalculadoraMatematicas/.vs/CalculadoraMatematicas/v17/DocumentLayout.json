@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\",
+  "WorkspaceRootPath": "C:\\Users\\persona\\Documents\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|d:\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|c:\\users\\persona\\documents\\github\\calculadoramatematicas\\calculadoramatematicas\\calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D03237D6-4FE8-4FBE-9913-F310B2A5A045}|CalculadoraMatematicas\\CalculadoraMatematicas.csproj|solutionrelative:calculadoramatematicas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\persona\\Documents\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
               "RelativeDocumentMoniker": "CalculadoraMatematicas\\Program.cs",
-              "ToolTip": "D:\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
+              "ToolTip": "C:\\Users\\persona\\Documents\\GitHub\\CalculadoraMatematicas\\CalculadoraMatematicas\\CalculadoraMatematicas\\Program.cs",
               "RelativeToolTip": "CalculadoraMatematicas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwBQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:54:56.248Z",
+              "WhenOpened": "2024-05-17T00:39:34.39Z",
               "EditorCaption": ""
             }
           ]
